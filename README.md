@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdamKoutou
 - 👀 I’m interested in web design and blockchain technologie 
 - 🌱 I build blockchain solutions
-- 💞️ I’m looking to collaborate on blockchain project
 - 📫 How to reach me ...
 
 <!---
